@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\filecopy2\bin\Debug\net6.0\filecopy2.exe
+C:\Users\akaliyaperumal\source\repos\filecopy2\bin\Debug\net6.0\filecopy2.deps.json
+C:\Users\akaliyaperumal\source\repos\filecopy2\bin\Debug\net6.0\filecopy2.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\filecopy2\bin\Debug\net6.0\filecopy2.dll
+C:\Users\akaliyaperumal\source\repos\filecopy2\bin\Debug\net6.0\filecopy2.pdb
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.dll
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\refint\filecopy2.dll
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.pdb
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\filecopy2.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\filecopy2\obj\Debug\net6.0\ref\filecopy2.dll
