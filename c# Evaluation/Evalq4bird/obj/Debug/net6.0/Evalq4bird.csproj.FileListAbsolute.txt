@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\bin\Debug\net6.0\Evalq4bird.exe
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\bin\Debug\net6.0\Evalq4bird.deps.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\bin\Debug\net6.0\Evalq4bird.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\bin\Debug\net6.0\Evalq4bird.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\bin\Debug\net6.0\Evalq4bird.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\refint\Evalq4bird.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\Evalq4bird.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq4bird\obj\Debug\net6.0\ref\Evalq4bird.dll

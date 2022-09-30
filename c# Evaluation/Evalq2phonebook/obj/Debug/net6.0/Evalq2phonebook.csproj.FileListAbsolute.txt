@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\bin\Debug\net6.0\Evalq2phonebook.exe
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\bin\Debug\net6.0\Evalq2phonebook.deps.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\bin\Debug\net6.0\Evalq2phonebook.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\bin\Debug\net6.0\Evalq2phonebook.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\bin\Debug\net6.0\Evalq2phonebook.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\refint\Evalq2phonebook.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\Evalq2phonebook.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq2phonebook\obj\Debug\net6.0\ref\Evalq2phonebook.dll

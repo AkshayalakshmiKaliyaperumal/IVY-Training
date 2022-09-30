@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\bin\Debug\net6.0\Evalq9delegates.exe
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\bin\Debug\net6.0\Evalq9delegates.deps.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\bin\Debug\net6.0\Evalq9delegates.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\bin\Debug\net6.0\Evalq9delegates.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\bin\Debug\net6.0\Evalq9delegates.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\refint\Evalq9delegates.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\Evalq9delegates.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq9delegates\obj\Debug\net6.0\ref\Evalq9delegates.dll

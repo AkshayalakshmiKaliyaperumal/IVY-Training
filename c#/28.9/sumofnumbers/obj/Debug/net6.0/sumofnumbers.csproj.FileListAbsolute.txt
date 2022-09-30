@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\bin\Debug\net6.0\sumofnumbers.exe
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\bin\Debug\net6.0\sumofnumbers.deps.json
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\bin\Debug\net6.0\sumofnumbers.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\bin\Debug\net6.0\sumofnumbers.dll
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\bin\Debug\net6.0\sumofnumbers.pdb
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.dll
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\refint\sumofnumbers.dll
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.pdb
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\sumofnumbers.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\sumofnumbers\obj\Debug\net6.0\ref\sumofnumbers.dll
