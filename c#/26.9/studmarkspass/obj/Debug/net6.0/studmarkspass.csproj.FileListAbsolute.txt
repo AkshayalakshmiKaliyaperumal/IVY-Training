@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\studmarkspass\bin\Debug\net6.0\studmarkspass.exe
+C:\Users\akaliyaperumal\source\repos\studmarkspass\bin\Debug\net6.0\studmarkspass.deps.json
+C:\Users\akaliyaperumal\source\repos\studmarkspass\bin\Debug\net6.0\studmarkspass.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\studmarkspass\bin\Debug\net6.0\studmarkspass.dll
+C:\Users\akaliyaperumal\source\repos\studmarkspass\bin\Debug\net6.0\studmarkspass.pdb
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.dll
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\refint\studmarkspass.dll
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.pdb
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\studmarkspass.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\studmarkspass\obj\Debug\net6.0\ref\studmarkspass.dll

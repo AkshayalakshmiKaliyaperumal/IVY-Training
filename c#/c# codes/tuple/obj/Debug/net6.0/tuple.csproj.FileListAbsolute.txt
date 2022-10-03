@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\tuple\bin\Debug\net6.0\tuple.exe
+C:\Users\akaliyaperumal\source\repos\tuple\bin\Debug\net6.0\tuple.deps.json
+C:\Users\akaliyaperumal\source\repos\tuple\bin\Debug\net6.0\tuple.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\tuple\bin\Debug\net6.0\tuple.dll
+C:\Users\akaliyaperumal\source\repos\tuple\bin\Debug\net6.0\tuple.pdb
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.dll
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\refint\tuple.dll
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.pdb
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\tuple.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\tuple\obj\Debug\net6.0\ref\tuple.dll

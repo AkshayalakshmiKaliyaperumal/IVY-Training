@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\directoryexc\bin\Debug\net6.0\directoryexc.exe
+C:\Users\akaliyaperumal\source\repos\directoryexc\bin\Debug\net6.0\directoryexc.deps.json
+C:\Users\akaliyaperumal\source\repos\directoryexc\bin\Debug\net6.0\directoryexc.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\directoryexc\bin\Debug\net6.0\directoryexc.dll
+C:\Users\akaliyaperumal\source\repos\directoryexc\bin\Debug\net6.0\directoryexc.pdb
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.dll
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\refint\directoryexc.dll
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.pdb
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\directoryexc.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\directoryexc\obj\Debug\net6.0\ref\directoryexc.dll

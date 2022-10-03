@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\zeroexc\bin\Debug\net6.0\zeroexc.exe
+C:\Users\akaliyaperumal\source\repos\zeroexc\bin\Debug\net6.0\zeroexc.deps.json
+C:\Users\akaliyaperumal\source\repos\zeroexc\bin\Debug\net6.0\zeroexc.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\zeroexc\bin\Debug\net6.0\zeroexc.dll
+C:\Users\akaliyaperumal\source\repos\zeroexc\bin\Debug\net6.0\zeroexc.pdb
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.dll
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\refint\zeroexc.dll
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.pdb
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\zeroexc.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\zeroexc\obj\Debug\net6.0\ref\zeroexc.dll

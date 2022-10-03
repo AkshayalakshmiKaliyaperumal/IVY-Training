@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\append\bin\Debug\net6.0\append.exe
+C:\Users\akaliyaperumal\source\repos\append\bin\Debug\net6.0\append.deps.json
+C:\Users\akaliyaperumal\source\repos\append\bin\Debug\net6.0\append.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\append\bin\Debug\net6.0\append.dll
+C:\Users\akaliyaperumal\source\repos\append\bin\Debug\net6.0\append.pdb
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.dll
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\refint\append.dll
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.pdb
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\append.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\append\obj\Debug\net6.0\ref\append.dll

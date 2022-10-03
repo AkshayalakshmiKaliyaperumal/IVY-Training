@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\bin\Debug\net6.0\Evalq8replace.exe
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\bin\Debug\net6.0\Evalq8replace.deps.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\bin\Debug\net6.0\Evalq8replace.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\bin\Debug\net6.0\Evalq8replace.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\bin\Debug\net6.0\Evalq8replace.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\refint\Evalq8replace.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\Evalq8replace.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq8replace\obj\Debug\net6.0\ref\Evalq8replace.dll

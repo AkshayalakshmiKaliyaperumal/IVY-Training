@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\AnonSI\bin\Debug\net6.0\AnonSI.exe
+C:\Users\akaliyaperumal\source\repos\AnonSI\bin\Debug\net6.0\AnonSI.deps.json
+C:\Users\akaliyaperumal\source\repos\AnonSI\bin\Debug\net6.0\AnonSI.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\AnonSI\bin\Debug\net6.0\AnonSI.dll
+C:\Users\akaliyaperumal\source\repos\AnonSI\bin\Debug\net6.0\AnonSI.pdb
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.dll
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\refint\AnonSI.dll
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.pdb
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\AnonSI.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\AnonSI\obj\Debug\net6.0\ref\AnonSI.dll

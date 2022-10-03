@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\bin\Debug\net6.0\Evalq10async.exe
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\bin\Debug\net6.0\Evalq10async.deps.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\bin\Debug\net6.0\Evalq10async.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\bin\Debug\net6.0\Evalq10async.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\bin\Debug\net6.0\Evalq10async.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\refint\Evalq10async.dll
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.pdb
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\Evalq10async.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\Evaluation\Evalq10async\obj\Debug\net6.0\ref\Evalq10async.dll

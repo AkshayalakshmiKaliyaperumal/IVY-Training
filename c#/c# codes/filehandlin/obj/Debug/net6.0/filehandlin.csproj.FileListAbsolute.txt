@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\filehandlin\bin\Debug\net6.0\filehandlin.exe
+C:\Users\akaliyaperumal\source\repos\filehandlin\bin\Debug\net6.0\filehandlin.deps.json
+C:\Users\akaliyaperumal\source\repos\filehandlin\bin\Debug\net6.0\filehandlin.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\filehandlin\bin\Debug\net6.0\filehandlin.dll
+C:\Users\akaliyaperumal\source\repos\filehandlin\bin\Debug\net6.0\filehandlin.pdb
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.dll
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\refint\filehandlin.dll
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.pdb
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\filehandlin.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\filehandlin\obj\Debug\net6.0\ref\filehandlin.dll

@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\formatexc\bin\Debug\net6.0\formatexc.exe
+C:\Users\akaliyaperumal\source\repos\formatexc\bin\Debug\net6.0\formatexc.deps.json
+C:\Users\akaliyaperumal\source\repos\formatexc\bin\Debug\net6.0\formatexc.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\formatexc\bin\Debug\net6.0\formatexc.dll
+C:\Users\akaliyaperumal\source\repos\formatexc\bin\Debug\net6.0\formatexc.pdb
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.dll
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\refint\formatexc.dll
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.pdb
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\formatexc.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\formatexc\obj\Debug\net6.0\ref\formatexc.dll

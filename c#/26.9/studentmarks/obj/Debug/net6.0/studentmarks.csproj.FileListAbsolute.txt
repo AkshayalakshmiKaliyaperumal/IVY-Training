@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\studentmarks\bin\Debug\net6.0\studentmarks.exe
+C:\Users\akaliyaperumal\source\repos\studentmarks\bin\Debug\net6.0\studentmarks.deps.json
+C:\Users\akaliyaperumal\source\repos\studentmarks\bin\Debug\net6.0\studentmarks.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\studentmarks\bin\Debug\net6.0\studentmarks.dll
+C:\Users\akaliyaperumal\source\repos\studentmarks\bin\Debug\net6.0\studentmarks.pdb
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.dll
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\refint\studentmarks.dll
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.pdb
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\studentmarks.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\studentmarks\obj\Debug\net6.0\ref\studentmarks.dll

@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\university\bin\Debug\net6.0\university.exe
+C:\Users\akaliyaperumal\source\repos\university\bin\Debug\net6.0\university.deps.json
+C:\Users\akaliyaperumal\source\repos\university\bin\Debug\net6.0\university.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\university\bin\Debug\net6.0\university.dll
+C:\Users\akaliyaperumal\source\repos\university\bin\Debug\net6.0\university.pdb
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.dll
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\refint\university.dll
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.pdb
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\university.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\university\obj\Debug\net6.0\ref\university.dll

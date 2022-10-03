@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zeroexc", "zeroexc.csproj", "{1E65FEBD-7471-49B0-80A8-9ED60B47B041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E65FEBD-7471-49B0-80A8-9ED60B47B041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E65FEBD-7471-49B0-80A8-9ED60B47B041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E65FEBD-7471-49B0-80A8-9ED60B47B041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E65FEBD-7471-49B0-80A8-9ED60B47B041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B769EF2-79F7-4B51-9CD1-484DB96D348E}
+	EndGlobalSection
+EndGlobal

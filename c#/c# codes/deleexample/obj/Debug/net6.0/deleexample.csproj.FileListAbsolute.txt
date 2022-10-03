@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\deleexample\bin\Debug\net6.0\deleexample.exe
+C:\Users\akaliyaperumal\source\repos\deleexample\bin\Debug\net6.0\deleexample.deps.json
+C:\Users\akaliyaperumal\source\repos\deleexample\bin\Debug\net6.0\deleexample.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\deleexample\bin\Debug\net6.0\deleexample.dll
+C:\Users\akaliyaperumal\source\repos\deleexample\bin\Debug\net6.0\deleexample.pdb
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.dll
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\refint\deleexample.dll
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.pdb
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\deleexample.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\deleexample\obj\Debug\net6.0\ref\deleexample.dll
