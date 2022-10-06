@@ -1,0 +1,90 @@
+selector{
+property:value
+}
+table{
+    border:1px solid red;
+} 
+ 
+/* Selector */
+/* universal
+class
+id
+element */
+ 
+
+/* 1.universal(*) */
+/* *{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */ */
+ 
+/* 2. class (.)*/
+ .c1{
+    color: red;
+} 
+
+ /* 3.element (p,h1,h2,button, etc) */
+p{
+  color: green;  
+} 
+ 
+/* 4.Id  (#) */
+ #i1{
+    color: blue;
+} 
+ 
+ 
+ 
+ 
+/* Adavance selector */
+/* 1. Descendant
+2.child
+3.Adjacent
+4.sibling
+5.pseduo */
+ 
+/*1. Descendant*/
+ li a{
+    color: red;
+}
+ 
+li li a{
+    color: red;
+} 
+ 
+.container ol{
+    border: 5px solid blue;
+} 
+ 
+ 
+ 
+/* 2.Child*/
+ 
+body>p{
+    color: red;
+}
+ 
+.container>ol{
+    border: 5px solid blue;
+}
+
+ 
+ 
+/* 3.Adjacent  */
+ 
+ ol+p+p{
+    color: red;
+ }
+ 
+ 
+/* 4. Sibling */
+ol~p{
+    color: red;
+}
+ 
+/* 5.pseduo */
+a:hover{
+    text-decoration: none;
+    color: red;
+ 
+}
+ 
