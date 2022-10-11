@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let empty_tank = new function () {
+            return new Promise(function (resolve, reject) {
+                resolve("the car doesnot hav enough fuel");
+            })
+        }
+
+        let engine = function () {
+            return new Promise(function (resolve, reject) {
+                resolve("the engine is over heating");
+            })
+        }
+
+        let travel = function () {
+            return new Promise(function (resolve, reject) {
+                resolve("the car is not safe to travel");
+            })
+        }
+
+
+        empty_tank.then(function () {
+            return engine();
+        })
+            .then(function () {
+                return travel();
+            })
+            .then(function () {
+                console.log("Done");
+            })
+
+    </script>
+
+</body>
+
+</html>

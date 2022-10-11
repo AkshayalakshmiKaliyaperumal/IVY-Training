@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Syntax
+        //  async function function_name(){
+        //     await some_promises()
+        // }
+
+        let result=function(score){
+            return new Promise(function(resolve,reject){
+                console.log("calculation results");
+                if(score>50){
+                    resolve("passed")
+                }else{
+                    reject("failed")
+                }
+            })
+        }
+
+        let grade=function(response){
+            return new Promise(function(resolve,reject){
+                console.log("calculation grade");
+                resolve("your grade is A " +response)
+            })
+        }
+
+        async function calculateResult(){
+            try{
+                const response=await result(80)
+                console.log("Result Received");
+                const finalgrade=await grade(response)
+                console.log(finalgrade);
+            }
+            catch(err){
+                console.log(err);
+            }
+        }
+ 
+        calculateResult()
+
+
+        result(80).then(response=>{
+            console.log("Result Received");
+            return grade(response)
+        }).then(finalgrade=>{
+            console.log(finalgrade);
+        }).catch(err=>{
+            console.log(err);
+        })
+
+
+
+            function callingAsync(){
+                return "1"
+            }
+            console.log(callingAsync());
+
+            async function callingAsync(){
+                // return "1"
+            }
+            console.log(callingAsync());
+
+            var myPromise=new Promise((resolve,reject)=>{
+                setTimeout(()=>{
+                    resolve("Executed...")
+                },3000)
+            })
+
+            function invokepromise(){
+                myPromise.then((data)=>{
+                    console.log(data);
+                })
+                console.log("execution is completed");
+            }
+
+               async function invokepromise(){
+                   await myPromise.then((data)=>{
+                        console.log(data);
+                    })
+                    console.log("execution is completed");
+                }
+
+            invokepromise()
+            
+
+    </script>
+</body>
+</html>
