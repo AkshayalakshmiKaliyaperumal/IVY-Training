@@ -1,0 +1,12 @@
+<!-- <input type="text" placeholder="Enter your name" [formControl]="name">
+<button>Enter</button>
+<sample1></sample1> -->
+<form>
+    <input type="text"  ngModel name="name" placeholder="Enter your name">
+    <br>
+    <input type="text"  ngModel name="age" placeholder="Enter your age">
+    <br>
+    <button (click)="submit($event)">Submit</button>{{name.value}}
+    <p>{{name.value}}</p>
+    <p>{{age.value}}</p>
+</form>

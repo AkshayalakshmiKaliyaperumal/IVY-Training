@@ -1,0 +1,21 @@
+<form [formGroup]="detailsform" (ngSubmit)="Submit()">
+    <label for="name">Name: </label>
+    <input type="text" id="name" formControlName="name" placeholder="Enter your name">
+    <br>
+    <label for="id">Employee id: </label>
+    <input type="number" id="id" formControlName="id" placeholder="Enter your employee id">
+    <br>
+    <label for="age">Age: </label>
+    <input type="number" id="age" formControlName="age" placeholder="Enter your age">
+    <br>
+    <h4>Nested Form Address</h4>
+    <div formGroupName="address">
+        <label for="city">City: </label>
+        <input type="text" id="city" formControlName="city" placeholder="Enter your city">
+        <br>
+        <label for="country">Country: </label>
+        <input type="text" id="country" formControlName="country" placeholder="Enter your country">
+        <br>
+    </div>
+    <button>Submit</button>
+</form>
