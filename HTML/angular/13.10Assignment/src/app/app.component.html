@@ -1,0 +1,23 @@
+<h3>Task1 - Event Binding </h3>
+<button (click)="greet($event)" value="GREET">GREET</button>
+<h3>Task2 - Directives</h3>
+<h4>ngClass</h4>
+<div [ngClass] = "'greet'">GREET</div>
+<h4>ngStyle</h4>
+<div [ngStyle] ="{'color':'red'}">GREET</div>
+<h4>ngModel</h4>
+<input type="text" [ngModel]="greeting">
+<p> Value : {{greeting}}</p>
+<!-- <button (click)="setvalue()">Click</button> -->
+<h3>Task3 - Pipes</h3>
+<h4>String type property</h4>
+<p>lowercase : {{"Akshaya K" | lowercase}}</p>
+<p>uppercase : {{"Akshaya K" | uppercase}}</p>
+<h4>Number property</h4>
+<p>{{ 50.5464456 | number}}</p>
+<h4>Percent pipe</h4>
+<p>{{2 | percent}}</p>
+<h4>Currency pipe</h4>
+<p>{{2000 | currency:"INR"}}</p>
+<h4>Date pipe</h4>
+<p>Today's Date is {{ date | date}}</p>
