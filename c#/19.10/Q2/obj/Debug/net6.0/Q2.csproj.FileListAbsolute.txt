@@ -1,0 +1,15 @@
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\bin\Debug\net6.0\Q2.exe
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\bin\Debug\net6.0\Q2.deps.json
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\bin\Debug\net6.0\Q2.runtimeconfig.json
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\bin\Debug\net6.0\Q2.dll
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\bin\Debug\net6.0\Q2.pdb
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.csproj.AssemblyReference.cache
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.AssemblyInfoInputs.cache
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.AssemblyInfo.cs
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.dll
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\refint\Q2.dll
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.pdb
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\Q2.genruntimeconfig.cache
+C:\Users\akaliyaperumal\source\repos\IVY-Training\c#\19.10\Q2\obj\Debug\net6.0\ref\Q2.dll
