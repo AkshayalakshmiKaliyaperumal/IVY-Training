@@ -55,10 +55,12 @@ insert into student values (7,'Geetha', 'Physics', '7/8/2022')
 insert into student values (10,'Bino', 'Maths','10/5/2022')
 insert into student values (12,'Fatima', 'Chemistry','10/9/2022')
 
-select student_name from student 
+select student_name,course_name,doj from student 
 where course_name = 'Physics'
-and MONTH(doj) > 7
+--and MONTH(doj) >= 7
+and doj between '8/1/2022' and '10/1/2022'
 
+select * from student
 
 --Create 2 similar tables (Students in 2 colleges) and show only the students who are aged over 21 and are studying Mathematics
 
@@ -108,6 +110,9 @@ union
 select student_name,age,course_name from clg2
 where age > 21
 and course_name = 'Mathematics'
+
+select * from clg1
+select * from clg2
 
 select student_name,age,course_name from clg1 
 where age > 21

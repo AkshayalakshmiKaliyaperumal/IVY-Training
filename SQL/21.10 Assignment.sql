@@ -169,6 +169,21 @@ insert into telephone_directory values(2,'Akshita',9443564567,'Bangalore,India',
 insert into telephone_directory values(3,'Priya',7594561245,'Chennai,India','Teacher')
 insert into telephone_directory values(4,'Madhu',9884339345,'Hyderabad,India','Doctor')
 insert into telephone_directory values(5,'Gayathri',6594346785,'Chennai,India','Student')
+insert into telephone_directory values(6,'Lakshmi',9783746645,'Chennai,India','Lawyer')
+insert into telephone_directory values(7,'Akash',9443478867,'Bangalore,India','Student')
+insert into telephone_directory values(8,'Dharshini',7334561245,'Chennai,India','Teacher')
+insert into telephone_directory values(9,'Madhumita',9882239345,'Hyderabad,India','Doctor')
+insert into telephone_directory values(10,'Prakash',2294346785,'Chennai,India','Student')
+insert into telephone_directory values(11,'Rishi',9084566345,'Chennai,India','Lawyer')
+insert into telephone_directory values(12,'Veera',9663564567,'Bangalore,India','Student')
+insert into telephone_directory values(13,'Praveena',7594561233,'Chennai,India','Teacher')
+insert into telephone_directory values(14,'Krishnan',9884339344,'Hyderabad,India','Doctor')
+insert into telephone_directory values(15,'Karthik',6594346788,'Chennai,India','Student')
+insert into telephone_directory values(16,'Pranav',9784566377,'Chennai,India','Lawyer')
+insert into telephone_directory values(17,'Meera',9443564666,'Bangalore,India','Student')
+insert into telephone_directory values(18,'Shafana',7594560005,'Chennai,India','Teacher')
+insert into telephone_directory values(19,'Sundar',9800339345,'Hyderabad,India','Doctor')
+insert into telephone_directory values(20,'Srinidhi',6594000785,'Chennai,India','Student')
 
 select * from telephone_directory
 
