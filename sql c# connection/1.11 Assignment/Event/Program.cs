@@ -65,7 +65,8 @@ namespace Event
                 }
                 reader1.Close();
 
-                SqlCommand cmd2 = new SqlCommand("select * from dbo.event_money()", sql);
+                Console.WriteLine("Maximum Cost : ");
+                SqlCommand cmd2 = new SqlCommand("select * from dbo.evt_money()", sql);
                 SqlDataReader reader2 = cmd2.ExecuteReader();
 
                 while (reader2.Read())

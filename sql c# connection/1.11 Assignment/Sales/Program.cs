@@ -22,17 +22,14 @@ namespace Sales
                 string location = Console.ReadLine();
                 Console.WriteLine();
 
-                SqlCommand cmd = new SqlCommand("sales_location", sql);
-                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                SqlCommand cmd = new SqlCommand("select * from average(@location)", sql);
                 cmd.Parameters.Add("@location", System.Data.SqlDbType.NVarChar).Value = location;
                 SqlDataReader reader = cmd.ExecuteReader();
+                Console.WriteLine("Average amount: ");
 
                 while (reader.Read())
                 {
                     Console.WriteLine(reader.GetInt32(0));
-                    Console.WriteLine(reader.GetString(1));
-                    Console.WriteLine(reader.GetInt32(2));
-                    Console.WriteLine(reader.GetString(3));
                     Console.WriteLine();
                 }
                 reader.Close();
