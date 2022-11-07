@@ -50,18 +50,17 @@ declare @total as int
 select @total = sum(mark) from marks
 group by student_id
 having student_id = @id
-return @total
+exec total_marks1 @total
 end
 
-exec total_marks 1
+exec total_marks 4
 
 create or alter procedure total_marks1 @sum int as
 begin
-exec total_marks 1 
 select student_id,sum(mark) as max_marks
 from marks
 group by student_id
 having sum(mark) < @sum
 end
 
-exec total_marks1 @total
+--exec total_marks1 @total

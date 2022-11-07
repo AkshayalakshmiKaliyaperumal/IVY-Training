@@ -28,13 +28,13 @@ create or alter procedure event_month @month nvarchar(20) as
 select * from event where event_date = @month
 exec event_month 'September'
 
-create or alter function event_money()
+create or alter function dbo.evt_money()
 returns table as
 return
-select max(total_cost) from event
+select max(total_cost) as maximumcost from event
 
 
-select * from event_money;
+select * from dbo.evt_money();
 
 
 create or alter procedure event_location @location nvarchar(20) as

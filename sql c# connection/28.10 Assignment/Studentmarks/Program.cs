@@ -23,17 +23,15 @@ namespace Studentmarks
 
                 SqlCommand cmd = new SqlCommand("total_marks", sql);
                 cmd.CommandType = System.Data.CommandType.StoredProcedure;
-
                 cmd.Parameters.Add("@id", System.Data.SqlDbType.Int).Value = id;
                 cmd.ExecuteNonQuery();
 
                 SqlDataReader reader = cmd.ExecuteReader();
-
+                Console.WriteLine("Student id and total mark: ");
                 while (reader.Read())
                 {
-                    Console.WriteLine(reader.GetInt32(0));
-                    Console.WriteLine(reader.GetInt32(1));
-                    Console.WriteLine(reader.GetInt32(2));
+                    Console.Write(reader.GetInt32(0) + " ");
+                    Console.Write(reader.GetInt32(1));
                     Console.WriteLine();
                 }
 
