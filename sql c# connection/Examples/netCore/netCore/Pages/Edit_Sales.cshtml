@@ -1,0 +1,35 @@
+﻿@page
+@model netCore.Pages.Edit_SalesModel
+@{
+}
+
+<h1 style="color:black"><b>Edit Sales Man Details </b></h1>
+<form method="post">
+
+    <div class="row-cols-1">
+        <label class="col-form-label"> Sales Man Name:  </label>
+        <div>
+            <input type="text" class=" form-control" name="name" value="@Model.update.s_name" required></input>
+        </div>
+        <label class="col-form-label"> Sales Man Amount:  </label>
+        <div>
+            <input type="number" class=" form-control" name="amount" value="@Model.update.amount" required></input>
+        </div>
+        <label class="col-form-label"> Sales Man City:  </label>
+        <div>
+            <input type="text" class=" form-control" name="city" value="@Model.update.city" required></input>
+        </div>
+        <label class="col-form-label"> Sales Man Eail ID:  </label>
+        <div>
+            <input type="email" class=" form-control" name="email_id" value="@Model.update.email_id" disabled></input>
+        </div>
+        <br>
+        <br>
+        <div>
+            <button type="submit" class="btn btn-success">Update</button>
+            <a href="/sales" type="reset" class="btn btn-danger">Cancel</a>
+        </div>
+    </div>
+</form>
+
+

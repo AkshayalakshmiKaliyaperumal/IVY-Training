@@ -29,12 +29,10 @@ select * from event where event_date = @month
 exec event_month 'September'
 
 create or alter function event_money()
-returns int as
-begin
-declare @max as int;
-select @max = (select max(total_cost) from event);
-return @max;
-end
+returns table as
+return
+select max(total_cost) from event
+
 
 select * from event_money;
 

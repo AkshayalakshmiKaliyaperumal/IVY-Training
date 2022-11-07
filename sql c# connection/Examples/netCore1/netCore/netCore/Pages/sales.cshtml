@@ -1,0 +1,34 @@
+﻿@page
+@model netCore.Pages.salesModel
+@{
+   
+
+}
+<p>This is our sales Page</p>
+<a class="btn btn-primary" href="/add_sales">Add Sales</a><br><br>
+<h>Sales Information</h>
+<table>
+    <thead>
+        
+        <tr>
+            <th>sales_id</th>
+          <th>Sales Man Name </th>
+          <th>Sales Amounts</th>
+          <th>Sales City</th>
+          <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.list_name){
+        
+        
+        <tr>
+            <td>@x.s_id</td>
+            <td>@x.s_name</td>
+            <td>@x.amount</td>
+            <td>@x.city</td>
+            <td>@x.phone_no</td>
+        </tr>
+        }
+    </tbody>
+</table>

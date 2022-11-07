@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\netCore",
-    "\\netCore\\netCore",
-    "\\netCore\\netCore\\Pages"
+    "\\netCore\\Pages"
   ],
-  "SelectedNode": "\\netCore\\netCore\\Pages\\sales.cshtml.cs",
+  "SelectedNode": "\\netCore\\netCore.csproj",
   "PreviewInSolutionExplorer": false
 }
