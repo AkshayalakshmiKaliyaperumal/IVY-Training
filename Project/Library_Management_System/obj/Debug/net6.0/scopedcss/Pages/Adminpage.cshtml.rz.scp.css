@@ -1,0 +1,141 @@
+body[b-h535d031az] {
+}
+*[b-h535d031az] {
+    box-sizing: border-box;
+}
+h2[b-h535d031az] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+.fullpage[b-h535d031az]{
+    color:bisque;
+}
+
+body[b-h535d031az] {
+    margin: 0;
+    font-family: 'Lucida Handwriting'
+}
+
+.button2:hover[b-h535d031az] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-h535d031az] {
+    background-color: transparent;
+    color:bisque;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.topnav[b-h535d031az] {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    .topnav a[b-h535d031az] {
+        float: left;
+        display: block;
+        color: bisque;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover[b-h535d031az] {
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container[b-h535d031az] {
+        float: right;
+    }
+
+    .topnav input[type=text][b-h535d031az] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+        background-color: transparent;
+        color: bisque;
+    }
+        .topnav input[type=text]:hover[b-h535d031az] {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container button[b-h535d031az] {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        background-color: transparent;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        color:bisque;
+    }
+
+        .topnav .search-container button:hover[b-h535d031az] {
+            background-color: bisque;
+            color:black;
+        }
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container[b-h535d031az] {
+        float: none;
+        background-color: bisque;
+    }
+
+        .topnav a[b-h535d031az], .topnav input[type=text][b-h535d031az], .topnav .search-container button[b-h535d031az] {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+            background-color: bisque;
+        }
+
+    .topnav input[type=text][b-h535d031az] {
+        border: 1px solid bisque;
+        background-color: bisque;
+    }
+}
+.imglogo[b-h535d031az] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+    .table[b-h535d031az]{
+        background-color:bisque;
+        color:black;
+    }
+    tr[b-h535d031az]{
+        border-bottom:1px solid black;
+    }
+
+.bookslist[b-h535d031az] {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: transparent;
+    color: bisque;
+}
+
+    .bookslist:hover[b-h535d031az] {
+        background-color: bisque;
+        color: black;
+    }

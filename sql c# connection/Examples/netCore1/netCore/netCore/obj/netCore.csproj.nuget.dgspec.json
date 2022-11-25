@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\netCore.csproj": {}
+    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\netCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\netCore.csproj": {
+    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\netCore.csproj",
+        "projectUniqueName": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\netCore.csproj",
         "projectName": "netCore",
-        "projectPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\netCore.csproj",
+        "projectPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\akaliyaperumal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\obj\\",
+        "outputPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akaliyaperumal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,6 +10,7 @@ namespace netCore.Pages
        public Sales_info infos = new Sales_info();
        public string success_msg = "";
         public string error_msg = "";
+        
         public void OnPost()
         {
             try
@@ -58,9 +59,8 @@ namespace netCore.Pages
             infos.amount = 0;
             infos.city = "";
             infos.email_id = "";
-
-             success_msg = "Succefully added";
-            error_msg = "Error -sql problem";
+            success_msg = "Succefully added";
+            error_msg = "Error sql problem";
 
             //            Response.Redirect("/sales");
 

@@ -1,0 +1,87 @@
+﻿@page
+@model Library_Management_System.Pages.RegisterModel
+@{
+
+    ViewData["Title"] = "Register";
+
+}
+
+@if (Model.success_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-success alert-dismissible">
+                @Model.success_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+            </div>
+        </div>
+    </div>
+}
+
+<body class="fullpage1">
+       <div class="imglogo">
+    <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+    </div>
+    <div class="Register">
+        <br />
+      
+
+
+        <form method="post">
+            <div class="container">
+                <div class="text-center">
+                    <br />
+                    <h2>Register your details here</h2>
+                    <br />
+                </div>
+                <label for="name"><h5><b>Full Name :  </b></h5></label>
+                <input type="text" placeholder="Enter your full name" name="name" required>
+                <br />
+                <br />
+                <label for="phonenumber"><h5><b>Phone Number :  </b></h5></label>
+                <input type="tel" placeholder="Enter your phone number" name="phonenumber" pattern="[1-9]{1}[0-9]{9}" required>
+                <br />
+                <br />
+                <label for="age"><h5><b>Age :  </b></h5></label>
+                <input type="number" placeholder="Enter your age" name="age" required>
+                <br />
+                <br />
+                <label for="email"><h5><b>Email Id :  </b></h5></label>
+                <input type="email" placeholder="Enter your email id" name="email" required>
+                <br />
+                <br />
+                <label for="password"><h5><b>Password :  </b></h5></label>
+                <input type="password" placeholder="Enter your Password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
+                <br />
+                <br />
+                <button class="button" style="margin-right:16px" name="Login" type="submit">Submit</button>
+                <button onclick="location.href='/Index'" class="button2" style="margin-right:16px" name="cancel" type="submit">Cancel</button>
+                <br />
+                <br />
+                <div class="signin">
+                    <p>Already have an account? <a href="/Index">Login</a></p>
+                </div>
+            </div>
+            
+
+        </form>
+
+
+    </div>
+</body>
+
+@if (Model.error_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-danger alert-dismissible">
+                @Model.error_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}

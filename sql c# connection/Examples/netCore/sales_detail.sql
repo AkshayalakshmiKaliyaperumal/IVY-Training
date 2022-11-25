@@ -1,4 +1,3 @@
-use sanjana
 drop table sales_detail
 create TABLE sales_detail 
 (s_id INT identity PRIMARY KEY,

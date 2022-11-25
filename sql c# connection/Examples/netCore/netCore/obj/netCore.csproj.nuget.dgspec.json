@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kumari.sanjana\\OneDrive - Entain Group\\Desktop\\SQL_project\\28-10-2022\\netCore\\netCore\\netCore.csproj": {}
+    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kumari.sanjana\\OneDrive - Entain Group\\Desktop\\SQL_project\\28-10-2022\\netCore\\netCore\\netCore.csproj": {
+    "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kumari.sanjana\\OneDrive - Entain Group\\Desktop\\SQL_project\\28-10-2022\\netCore\\netCore\\netCore.csproj",
+        "projectUniqueName": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore.csproj",
         "projectName": "netCore",
-        "projectPath": "C:\\Users\\kumari.sanjana\\OneDrive - Entain Group\\Desktop\\SQL_project\\28-10-2022\\netCore\\netCore\\netCore.csproj",
-        "packagesPath": "C:\\Users\\kumari.sanjana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kumari.sanjana\\OneDrive - Entain Group\\Desktop\\SQL_project\\28-10-2022\\netCore\\netCore\\obj\\",
+        "projectPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore.csproj",
+        "packagesPath": "C:\\Users\\akaliyaperumal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kumari.sanjana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\akaliyaperumal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

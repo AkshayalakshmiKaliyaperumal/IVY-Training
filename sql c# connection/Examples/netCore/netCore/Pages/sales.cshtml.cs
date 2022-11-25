@@ -16,11 +16,11 @@ namespace netCore.Pages
             {
 
                 string ConnectionString = "Data Source=INLPF379SHK\\MSSQLSERVER1;Initial Catalog=master;trusted_connection=true";
-               // string ConnectionString1 = _configuration.GetConnectionString("DefaultConnection");
-;
+                // string ConnectionString1 = _configuration.GetConnectionString("DefaultConnection");
+                ;
                 SqlConnection sqlCon = new SqlConnection(ConnectionString);
                 sqlCon.Open();
-                string query = "select * from sales_detail where amount<5000";
+                string query = "select * from sales_detail";
 
                 SqlCommand cmd = new SqlCommand(query, sqlCon);
                // cmd.CommandType = System.Data.CommandType.StoredProcedure;
@@ -42,7 +42,7 @@ namespace netCore.Pages
 
 
                 }
-               // list_name.ForEach(x=> Console.WriteLine(x.s_id+" "+x.s_name+" "+x.amount+" "+x.city+" "+x.email_id));
+               list_name.ForEach(x=> Console.WriteLine(x.s_id+" "+x.s_name+" "+x.amount+" "+x.city+" "+x.email_id));
                
                 //Console.Log(list_name);
                 sqlCon.Close();

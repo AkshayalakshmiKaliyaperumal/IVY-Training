@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fo12qg1GuDe1Alzmi4nv6hT/DWhmT8qcnl4kj6hLRL9BKZyNauumDDYRoRCMpW0Y6PSFe9Qrta5JAPFBhnyQHQ==",
+  "dgSpecHash": "+7vVl66u1ufGEu8n8DyP/LLSMxkyQBhIy0Jw5E104t6kU2JPltExVJrW5c2iMjuJM4JpY2LZpwdI7mwWIxJjfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore\\netCore\\netCore\\netCore.csproj",
+  "projectFilePath": "C:\\Users\\akaliyaperumal\\source\\repos\\IVY-Training\\sql c# connection\\Examples\\netCore1\\netCore\\netCore\\netCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akaliyaperumal\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\akaliyaperumal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

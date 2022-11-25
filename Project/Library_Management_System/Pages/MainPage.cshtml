@@ -1,0 +1,78 @@
+﻿@page
+@model Library_Management_System.Pages.MainPageModel
+@using static Library_Management_System.Pages.RegisterModel;
+@{
+    ViewData["Title"] = "Home";
+}
+
+
+<body class="fullpage">
+    <div class="Welcome">
+    <div class="text-center">
+        <br />
+
+        <h2>Welcome, The Collection you will love!</h2>
+            </div>
+            <div class="imglogo">
+                <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+                <br />
+            </div>
+            <h5>Instructions :</h5>
+            <ul class="Instuction" style="list-style-type:circle">
+                <li>You can borrow one book at a time for the duration of three weeks.</li>
+                <li>You can search the Genre in the search bar.</li>
+            </ul>
+            <div class="topnav">
+            @{
+                string emailid = Request.Query["emailid"];
+            }
+           
+            <form Onclick="OnGet()">
+                <a href="/MainPage?emailid=@Model.l.email_id" class="bookslist" type="submit">List of Books</a>
+            </form>
+           
+                <a class="active" href="/myprofile?emailid=@Model.l.email_id">My Profile</a>
+            <a class="active" href="/myborrow?emailid=@Model.l.email_id">My Borrow Records</a>
+                <a class="active" href="/Index">Logout</a>
+            <div class="search-container">
+                <form method="post">
+                    <input class="search" type="text" placeholder="Search Genre.." name="search">
+                    <button class="button" type="submit" name="search">Search</button>
+                </form>
+            </div>
+            </div>
+    </div>
+    <div class="table">
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th>Book Id</th>
+                <th>Book Name</th>
+                <th>Author Name</th>
+                <th>Genre</th>
+                <th>Release Date</th>
+                <th>Quantity</th>
+                <th>Rent Price</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var x in Model.book)
+            {
+                <tr>
+                    <td>@x.book_id</td>
+                    <td>@x.book_name</td>
+                    <td>@x.author_name</td>
+                    <td>@x.genre</td>
+                    <td>@x.release_date</td>
+                    <td>@x.quantity</td>
+                    <td>@x.rent</td>
+                    <td><a href="/borrow?id=@x.book_id&emailid=@Model.l.email_id" class="btn btn-success">Borrow</a></td>
+                </tr>
+           }
+            
+        </tbody>
+    </table>
+    </div>
+</body>

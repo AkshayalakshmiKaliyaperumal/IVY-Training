@@ -1,0 +1,87 @@
+body[b-w5nesn64in] {
+    background-color:bisque;
+}
+*[b-w5nesn64in]{
+    box-sizing:border-box;
+}
+.container[b-w5nesn64in] {
+    max-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-w5nesn64in] {
+    text-align: right;
+    padding: 20px;
+}
+
+.Register[b-w5nesn64in] {
+    text-align: right;
+    padding: 20px;
+}
+
+.button[b-w5nesn64in] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-w5nesn64in] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-w5nesn64in] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-w5nesn64in] {
+    font-style: italic;
+    color: bisque;
+}
+.signin[b-w5nesn64in]{
+    text-align:center;
+    color:bisque;
+}
+.bg-image[b-w5nesn64in]{
+    filter:blur(8px);
+}
+
+input[b-w5nesn64in] {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover[b-w5nesn64in] {
+        background-color: transparent;
+    }
+
+.button2:hover[b-w5nesn64in] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-w5nesn64in] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.table[b-w5nesn64in] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-w5nesn64in] {
+    border-bottom: 1px solid black;
+}

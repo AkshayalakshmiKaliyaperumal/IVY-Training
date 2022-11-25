@@ -1,0 +1,58 @@
+﻿@page
+@model Library_Management_System.Pages.myborrowModel
+@{
+    ViewData["Title"] = "My Borrow Details";
+}
+<body class="fullpage">
+    <div class="text-center">
+        <br />
+        <br />
+        <br />
+        <br />
+        <h2>My Borrow Records</h2>
+        <br />
+    </div>
+    <div class="imglogo">
+        <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+        <br />
+    </div>
+    <br />
+    <br />
+    <div class="table">
+        <table class="table">
+            <thead>
+
+                <tr>
+                    <th>Borrow Id</th>
+                    <th>Book Id</th>
+                    <th>Book Name</th>
+                    <th>Rent Price</th>
+                    <th>Name</th>
+                    <th>Email Id</th>
+                    <th>Borrow Date From</th>
+                    <th>Borrow Date To</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model.book)
+                {
+                    <tr>
+                        <td>@x.borrow_id</td>
+                        <td>@x.book_id</td>
+                        <td>@x.book_name</td>
+                        <td>@x.rent</td>
+                        <td>@x.name</td>
+                        <td>@x.email_id</td>
+                        <td>@x.borrow_date_from</td>
+                        <td>@x.borrow_date_to</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="text-center">
+    <a href="/MainPage?emailid=@Model.borrow.email_id" class="btn btn-success">Home</a>
+        
+        <div />
+</body>

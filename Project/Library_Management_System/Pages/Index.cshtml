@@ -1,0 +1,75 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+@*<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+*@
+
+<body class="fullpage">
+    <br />
+    <div class="Login">
+        <div class="text-center">
+            <h1>Connect to your inner self</h1>
+            <br />
+        </div>
+        
+            <div class="imgcontainer">
+            <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="100" width="200" class="img" />
+            <br /> 
+            </div>
+        <br /> 
+
+        <form method="post">
+            <div class="container">
+                <br />
+                <div class="text-center">
+                    <br />
+                    <h2>Login</h2>
+                </div>
+                <br />
+                <label for="email"><h5><b>Email Id :  </b></h5></label>
+                <input type="email" placeholder="Enter your email id" name="email"  required>
+                <br />
+                <br />
+                <label for="password"><h5><b>Password :  </b></h5></label>
+                <input type="password" placeholder="Enter your Password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
+                <br />
+                <br />
+                <button class="button1" style="margin-right:16px" name="Login" type="submit">Login</button>
+                <button onclick="location.href='/Register'" class="button2" style="margin-right:16px" name="Register" type="submit">Register</button>
+                <br />
+            </div>
+
+
+
+        </form>
+
+  
+    </div>
+    <br />
+    <br />
+
+@if (Model.error_msg.Length > 0)
+{
+    <div>
+        <div class="Login" text-align="center">
+                <div class="text-center">
+            <div class="alert alert-danger alert-dismissible">
+                @Model.error_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+            </div>
+        </div>
+    </div>
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+</body>

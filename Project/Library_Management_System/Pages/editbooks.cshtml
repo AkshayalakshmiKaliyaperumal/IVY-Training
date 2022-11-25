@@ -1,0 +1,74 @@
+﻿@page
+@model Library_Management_System.Pages.editbooksModel
+@{
+    ViewData["Title"] = "Update Books";
+}
+
+@if (Model.success_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-success alert-dismissible">
+                @Model.success_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<body class="fullpage">
+<form method="post">
+    <div class="container" text-align="center">
+        <br />
+        <h2>Update</h2>
+        <br />
+            <label for="id"><h5><b>Book Id :  </b></h5></label>
+            <input type="number" value="@Model.update.book_id" name="bookname" disabled>
+            <br />
+            <br />
+            <label for="bookname"><h5><b>Book Name :  </b></h5></label>
+            <input type="text" value="@Model.update.book_name" name="bookname" disabled>
+            <br />
+            <br />
+            <label for="authorname"><h5><b>Author Name :  </b></h5></label>
+            <input type="text" value="@Model.update.author_name" name="authorname" disabled>
+            <br />
+            <br />
+            <label for="genre"><h5><b>Genre Name :  </b></h5></label>
+            <input type="text" value="@Model.update.genre" name="genre" disabled>
+            <br />
+            <br />
+            <label for="releasedate"><h5><b>Release Date :  </b></h5></label>
+            <input type="date" value="@Model.update.release_date" name="releasedate" disabled>
+            <br />
+            <br />
+            <label for="quantity"><h5><b>Quantity :  </b></h5></label>
+            <input type="number" value="@Model.update.quantity" name="quantity" >
+            <br />
+            <br />
+            <label for="rentprice"><h5><b>Rent Price :  </b></h5></label>
+            <input type="number" value="@Model.update.rent" name="rentprice" >
+            <br />
+        <br>
+        <br>
+        <div>
+            <button type="submit" class="btn btn-success">Update</button>
+            <a href="/Adminpage" type="reset" class="btn btn-danger">Cancel</a>
+        </div>
+    </div>
+</form>
+</body>
+@if (Model.error_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-danger alert-dismissible">
+                @Model.error_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
