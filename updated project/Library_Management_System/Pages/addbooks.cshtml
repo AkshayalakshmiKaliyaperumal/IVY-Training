@@ -1,0 +1,77 @@
+﻿@page
+@model Library_Management_System.Pages.addbooksModel
+@{
+    ViewData["Title"] = "Add Books";
+}
+@if (Model.success_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-success alert-dismissible">
+                @Model.success_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<body class="fullpage">
+    <div class="imglogo">
+        <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+    </div>
+    <div class="Register">
+        <form method="post">
+            <div class="container">
+                <br />
+                <div class="text-center">
+                    <h2>Add new Books here</h2>
+                    <br />
+                </div>
+                <label for="bookname"><h5><b>Book Name :  </b></h5></label>
+                <input type="text" placeholder="Enter the Book name" name="bookname" required>
+                <br />
+                <label for="authorname"><h5><b>Author Name :  </b></h5></label>
+                <input type="text" placeholder="Enter the Author name" name="authorname" required>
+                <br />
+                <label for="genre"><h5><b>Genre Name :  </b></h5></label>
+                <input type="text" placeholder="Enter the Genre" name="genre" required>
+                <br />
+                <br />
+                <label for="releasedate"><h5><b>Release Date :  </b></h5></label>
+                <input type="date" placeholder="Enter the Release date" name="releasedate" required>
+                <br />
+                <br />
+                <label for="quantity"><h5><b>Quantity :  </b></h5></label>
+                <input type="number" placeholder="Enter the Quantity" name="quantity" required>
+                <br />
+                <br />
+                <label for="price"><h5><b>Rent Price :  </b></h5></label>
+                <input type="number" placeholder="Enter the Price" name="price" required>
+                <br />
+                <br />
+                <button class="button" style="margin-right:16px" name="submit" type="submit">Submit</button>
+                <button onclick="location.href='/AdminPage'" class="button2" style="margin-right:16px" name="cancel" type="submit">Cancel</button>
+            </div>
+
+
+        </form>
+
+
+    </div>
+</body>
+
+@if (Model.error_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+            <div class="alert alert-danger alert-dismissible">
+                @Model.error_msg
+                <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+            </div>
+            </div>
+        </div>
+    </div>
+}

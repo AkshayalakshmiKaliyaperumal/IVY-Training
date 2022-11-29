@@ -1,0 +1,165 @@
+﻿body {
+    background-color:bisque;
+}
+
+h2 {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+.container{
+    text-align:right;
+}
+.Instuction{
+    color:bisque;
+}
+h5{
+    color:bisque;
+}
+
+.imglogo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+body {
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.fullpage {
+    color: bisque;
+}
+
+body {
+    margin: 0;
+    font-family: 'Lucida Handwriting'
+}
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2 {
+    background-color: transparent;
+    color: bisque;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: bisque;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container {
+        float: right;
+    }
+
+    .topnav input[type=text] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+        background-color: transparent;
+        color: bisque;
+    }
+
+        .topnav input[type=text]:hover {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container button {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        background-color: transparent;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        color: bisque;
+    }
+
+        .topnav .search-container button:hover {
+            background-color: bisque;
+            color: black;
+        }
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container {
+        float: none;
+        background-color: bisque;
+    }
+
+        .topnav a, .topnav input[type=text], .topnav .search-container button {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+            background-color: bisque;
+        }
+
+    .topnav input[type=text] {
+        border: 1px solid bisque;
+        background-color: bisque;
+    }
+}
+
+.imglogo {
+    text-align: right;
+    padding: 20px;
+}
+
+.table {
+    background-color: bisque;
+    color: black;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+.bookslist {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: transparent;
+    color: bisque;
+}
+
+    .bookslist:hover {
+        background-color: bisque;
+        color: black;
+    }

@@ -1,0 +1,879 @@
+/* _content/Library_Management_System/Pages/addbooks.cshtml.rz.scp.css */
+body[b-ma1snsll8i] {
+}
+.container[b-ma1snsll8i] {
+    text-align: center;
+    max-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-ma1snsll8i] {
+    text-align: right;
+    padding: 20px;
+}
+
+.Register[b-ma1snsll8i] {
+    text-align: right;
+    padding: 20px;
+}
+
+.button[b-ma1snsll8i] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-ma1snsll8i] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-ma1snsll8i] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-ma1snsll8i] {
+    font-style: italic;
+    color: bisque;
+}
+
+.bg-image[b-ma1snsll8i] {
+    filter: blur(8px);
+}
+
+input[b-ma1snsll8i] {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover[b-ma1snsll8i] {
+        background-color: transparent;
+    }
+
+.button2:hover[b-ma1snsll8i] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-ma1snsll8i] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+/* _content/Library_Management_System/Pages/Adminpage.cshtml.rz.scp.css */
+body[b-h535d031az] {
+}
+*[b-h535d031az] {
+    box-sizing: border-box;
+}
+h2[b-h535d031az] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+.fullpage[b-h535d031az]{
+    color:bisque;
+}
+
+body[b-h535d031az] {
+    margin: 0;
+    font-family: 'Lucida Handwriting'
+}
+
+.button2:hover[b-h535d031az] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-h535d031az] {
+    background-color: transparent;
+    color:bisque;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.topnav[b-h535d031az] {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    .topnav a[b-h535d031az] {
+        float: left;
+        display: block;
+        color: bisque;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover[b-h535d031az] {
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container[b-h535d031az] {
+        float: right;
+    }
+
+    .topnav input[type=text][b-h535d031az] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+        background-color: transparent;
+        color: bisque;
+    }
+        .topnav input[type=text]:hover[b-h535d031az] {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container button[b-h535d031az] {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        background-color: transparent;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        color:bisque;
+    }
+
+        .topnav .search-container button:hover[b-h535d031az] {
+            background-color: bisque;
+            color:black;
+        }
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container[b-h535d031az] {
+        float: none;
+        background-color: bisque;
+    }
+
+        .topnav a[b-h535d031az], .topnav input[type=text][b-h535d031az], .topnav .search-container button[b-h535d031az] {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+            background-color: bisque;
+        }
+
+    .topnav input[type=text][b-h535d031az] {
+        border: 1px solid bisque;
+        background-color: bisque;
+    }
+}
+.imglogo[b-h535d031az] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+    .table[b-h535d031az]{
+        background-color:bisque;
+        color:black;
+    }
+    tr[b-h535d031az]{
+        border-bottom:1px solid black;
+    }
+
+.bookslist[b-h535d031az] {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: transparent;
+    color: bisque;
+}
+
+    .bookslist:hover[b-h535d031az] {
+        background-color: bisque;
+        color: black;
+    }
+/* _content/Library_Management_System/Pages/borrow.cshtml.rz.scp.css */
+body[b-3ljdeph0so] {
+}
+
+.container[b-3ljdeph0so] {
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    min-height: 600px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-3ljdeph0so] {
+    text-align: right;
+    padding: 20px;
+}
+
+
+.button[b-3ljdeph0so] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-3ljdeph0so] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-3ljdeph0so] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-3ljdeph0so] {
+    font-style: italic;
+    color: bisque;
+}
+
+.bg-image[b-3ljdeph0so] {
+    filter: blur(8px);
+}
+
+input[b-3ljdeph0so] {
+    background-color: black;
+    color: bisque;
+}
+
+    input:disabled[b-3ljdeph0so] {
+        background-color: black;
+        color: bisque;
+    }
+
+.col-form-label[b-3ljdeph0so] {
+    color: bisque;
+}
+
+input:hover[b-3ljdeph0so] {
+    background-color: transparent;
+}
+
+.button2:hover[b-3ljdeph0so] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-3ljdeph0so] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.table[b-3ljdeph0so] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-3ljdeph0so] {
+    border-bottom: 1px solid black;
+}
+/* _content/Library_Management_System/Pages/borrowrecords.cshtml.rz.scp.css */
+body[b-c30g0pwd09] {
+}
+.imglogo[b-c30g0pwd09] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+.table[b-c30g0pwd09] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-c30g0pwd09] {
+    border-bottom: 1px solid black;
+}
+
+h2[b-c30g0pwd09] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+/* _content/Library_Management_System/Pages/editbooks.cshtml.rz.scp.css */
+body[b-jk5e3fskuj] {
+}
+.container[b-jk5e3fskuj] {
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    min-height: 600px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-jk5e3fskuj] {
+    text-align: right;
+    padding: 20px;
+}
+
+
+.button[b-jk5e3fskuj] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-jk5e3fskuj] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-jk5e3fskuj] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-jk5e3fskuj] {
+    font-style: italic;
+    color: bisque;
+}
+
+.bg-image[b-jk5e3fskuj] {
+    filter: blur(8px);
+}
+
+input[b-jk5e3fskuj] {
+    background-color: black;
+    color: bisque;
+}
+input:disabled[b-jk5e3fskuj] {
+    background-color: black;
+    color: bisque;
+}
+.col-form-label[b-jk5e3fskuj] {
+    color: bisque;
+}
+
+input:hover[b-jk5e3fskuj] {
+    background-color: transparent;
+}
+
+.button2:hover[b-jk5e3fskuj] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-jk5e3fskuj] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.table[b-jk5e3fskuj] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-jk5e3fskuj] {
+    border-bottom: 1px solid black;
+}
+/* _content/Library_Management_System/Pages/Index.cshtml.rz.scp.css */
+.fullpage[b-gqa8e90zc5]{
+    background-image: url('https://images2.alphacoders.com/261/thumb-1920-26102.jpg');
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+    background-attachment: fixed;
+}
+
+body[b-gqa8e90zc5]{
+    background-image: url('https://images2.alphacoders.com/261/thumb-1920-26102.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.container[b-gqa8e90zc5] {
+    text-align: center;
+    max-width: 350px;
+    min-height: 320px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+
+.img[b-gqa8e90zc5] {
+    text-align: center;
+}
+
+.imgcontainer[b-gqa8e90zc5]{
+    text-align: center;
+    padding: 20px;
+}
+
+.button1[b-gqa8e90zc5] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button1:hover[b-gqa8e90zc5] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+.button2:hover[b-gqa8e90zc5] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-gqa8e90zc5] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+h2[b-gqa8e90zc5] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+h1[b-gqa8e90zc5] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-gqa8e90zc5] {
+    font-style: italic;
+    color: bisque;
+}
+
+input[b-gqa8e90zc5] {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover[b-gqa8e90zc5] {
+        background-color: transparent;
+    }
+/* _content/Library_Management_System/Pages/MainPage.cshtml.rz.scp.css */
+body[b-vipietlugv] {
+    background-color:bisque;
+}
+
+h2[b-vipietlugv] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+.container[b-vipietlugv]{
+    text-align:right;
+}
+.Instuction[b-vipietlugv]{
+    color:bisque;
+}
+h5[b-vipietlugv]{
+    color:bisque;
+}
+
+.imglogo[b-vipietlugv] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+body[b-vipietlugv] {
+}
+
+*[b-vipietlugv] {
+    box-sizing: border-box;
+}
+
+.fullpage[b-vipietlugv] {
+    color: bisque;
+}
+
+body[b-vipietlugv] {
+    margin: 0;
+    font-family: 'Lucida Handwriting'
+}
+
+.button2:hover[b-vipietlugv] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-vipietlugv] {
+    background-color: transparent;
+    color: bisque;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.topnav[b-vipietlugv] {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    .topnav a[b-vipietlugv] {
+        float: left;
+        display: block;
+        color: bisque;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover[b-vipietlugv] {
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container[b-vipietlugv] {
+        float: right;
+    }
+
+    .topnav input[type=text][b-vipietlugv] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+        background-color: transparent;
+        color: bisque;
+    }
+
+        .topnav input[type=text]:hover[b-vipietlugv] {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container button[b-vipietlugv] {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        background-color: transparent;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        color: bisque;
+    }
+
+        .topnav .search-container button:hover[b-vipietlugv] {
+            background-color: bisque;
+            color: black;
+        }
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container[b-vipietlugv] {
+        float: none;
+        background-color: bisque;
+    }
+
+        .topnav a[b-vipietlugv], .topnav input[type=text][b-vipietlugv], .topnav .search-container button[b-vipietlugv] {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+            background-color: bisque;
+        }
+
+    .topnav input[type=text][b-vipietlugv] {
+        border: 1px solid bisque;
+        background-color: bisque;
+    }
+}
+
+.imglogo[b-vipietlugv] {
+    text-align: right;
+    padding: 20px;
+}
+
+.table[b-vipietlugv] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-vipietlugv] {
+    border-bottom: 1px solid black;
+}
+
+.bookslist[b-vipietlugv] {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: transparent;
+    color: bisque;
+}
+
+    .bookslist:hover[b-vipietlugv] {
+        background-color: bisque;
+        color: black;
+    }
+/* _content/Library_Management_System/Pages/memberrecords.cshtml.rz.scp.css */
+body[b-g597zd9w0k] {
+}
+.imglogo[b-g597zd9w0k] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+.table[b-g597zd9w0k] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-g597zd9w0k] {
+    border-bottom: 1px solid black;
+}
+
+h2[b-g597zd9w0k] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+/* _content/Library_Management_System/Pages/myborrow.cshtml.rz.scp.css */
+body[b-oo6oynhp16] {
+}
+.imglogo[b-oo6oynhp16] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+.table[b-oo6oynhp16] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-oo6oynhp16] {
+    border-bottom: 1px solid black;
+}
+
+h2[b-oo6oynhp16] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+/* _content/Library_Management_System/Pages/myprofile.cshtml.rz.scp.css */
+body[b-0j2esnvyhj] {
+}
+.imglogo[b-0j2esnvyhj] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+.table[b-0j2esnvyhj] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-0j2esnvyhj] {
+    border-bottom: 1px solid black;
+}
+
+h2[b-0j2esnvyhj] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-0j2esnvyhj] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+/* _content/Library_Management_System/Pages/Register.cshtml.rz.scp.css */
+body[b-w5nesn64in] {
+    background-color:bisque;
+}
+*[b-w5nesn64in]{
+    box-sizing:border-box;
+}
+.container[b-w5nesn64in] {
+    max-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-w5nesn64in] {
+    text-align: right;
+    padding: 20px;
+}
+
+.Register[b-w5nesn64in] {
+    text-align: right;
+    padding: 20px;
+}
+
+.button[b-w5nesn64in] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-w5nesn64in] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-w5nesn64in] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-w5nesn64in] {
+    font-style: italic;
+    color: bisque;
+}
+.signin[b-w5nesn64in]{
+    text-align:center;
+    color:bisque;
+}
+.bg-image[b-w5nesn64in]{
+    filter:blur(8px);
+}
+
+input[b-w5nesn64in] {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover[b-w5nesn64in] {
+        background-color: transparent;
+    }
+
+.button2:hover[b-w5nesn64in] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-w5nesn64in] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.table[b-w5nesn64in] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-w5nesn64in] {
+    border-bottom: 1px solid black;
+}
+/* _content/Library_Management_System/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-b1d9sh2kn1] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-b1d9sh2kn1] {
+  color: #0077cc;
+}
+
+.btn-primary[b-b1d9sh2kn1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-b1d9sh2kn1], .nav-pills .show > .nav-link[b-b1d9sh2kn1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-b1d9sh2kn1] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-b1d9sh2kn1] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-b1d9sh2kn1] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-b1d9sh2kn1] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-b1d9sh2kn1] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

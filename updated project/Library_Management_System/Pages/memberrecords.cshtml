@@ -1,0 +1,51 @@
+﻿@page
+@model Library_Management_System.Pages.memberrecordsModel
+@{
+    ViewData["Title"] = "Member Details";
+}
+<body class="fullpage">
+    <div class="text-center">
+        <br />
+        <br />
+        <br />
+        <br />
+        <h2>Details of all Members</h2>
+        <br />
+    </div>
+    <div class="imglogo">
+        <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+        <br />
+    </div>
+    <br />
+    <br />
+    <div class="table">
+        <table class="table">
+            <thead>
+
+                <tr>
+                    <th>Member Id</th>
+                    <th>Name</th>
+                    <th>Phone Number</th>
+                    <th>Age</th>
+                    <th>Email Id</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var x in Model.list)
+                {
+                    <tr>
+                        <td>@x.id_no</td>
+                        <td>@x.name</td>
+                        <td>@x.phone_number</td>
+                        <td>@x.age</td>
+                        <td>@x.email_id</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+        <div class="text-center">
+            <a href="/AdminPage" class="btn btn-success">Home</a>
+            <div />
+      
+</body>

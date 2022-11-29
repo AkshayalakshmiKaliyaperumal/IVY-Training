@@ -1,0 +1,85 @@
+﻿.fullpage{
+    background-image: url('https://images2.alphacoders.com/261/thumb-1920-26102.jpg');
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+    background-attachment: fixed;
+}
+
+body{
+    background-image: url('https://images2.alphacoders.com/261/thumb-1920-26102.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    max-width: 350px;
+    min-height: 320px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+
+.img {
+    text-align: center;
+}
+
+.imgcontainer{
+    text-align: center;
+    padding: 20px;
+}
+
+.button1 {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button1:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2 {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+h2 {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+h1 {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5 {
+    font-style: italic;
+    color: bisque;
+}
+
+input {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover {
+        background-color: transparent;
+    }

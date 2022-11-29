@@ -1,0 +1,66 @@
+﻿@page
+@model Library_Management_System.Pages.AdminPageModel
+@{
+    ViewData["Title"] = "Admin Page";
+}
+<body class="fullpage">
+    <div class="text-center">
+        <br />
+        <br />
+        <h2>Admin Page</h2>
+        <br />
+    </div>
+    <div class="imglogo">
+        <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+        <br />
+    </div>
+    <br />
+    <br />
+<div class="topnav">
+  <form onclick="OnGet()">
+        <button class="bookslist" type="submit">List of Books</button>
+           </form>
+    <a class="active" href="/addbooks">Add Books</a>
+        <a class="active" href="/borrowrecords">Borrow Records</a>
+        <a class="active" href="/memberrecords">Members Records</a>
+        <a class="active" href="/Index">Logout</a>
+    <div class="search-container">
+        <form method="post">
+            <input class="search" type="text" placeholder="Search.." name="search">
+            <button class="button" type="submit" name="search">Search</button>
+        </form>
+    </div>
+</div>
+<div class="table">
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th>Book Id</th>
+                <th>Book Name</th>
+                <th>Author Name</th>
+                <th>Genre</th>
+                <th>Release Date</th>
+                <th>Quantity</th>
+                <th>Rent Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var x in Model.book)
+            {
+                <tr>
+                    <td>@x.book_id</td>
+                    <td>@x.book_name</td>
+                    <td>@x.author_name</td>
+                    <td>@x.genre</td>
+                    <td>@x.release_date</td>
+                    <td>@x.quantity</td>
+                    <td>@x.rent</td>
+                    <td><a href="/editbooks?id=@x.book_id" class="btn btn-success"> Update</a></td>
+                    <td><a href="/deletebooks?id=@x.book_id" class="btn btn-danger"> Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+</body>

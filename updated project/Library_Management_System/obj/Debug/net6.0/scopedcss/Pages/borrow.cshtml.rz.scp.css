@@ -1,0 +1,87 @@
+body[b-3ljdeph0so] {
+}
+
+.container[b-3ljdeph0so] {
+    text-align: center;
+    padding: 20px;
+    max-width: 600px;
+    min-height: 600px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-3ljdeph0so] {
+    text-align: right;
+    padding: 20px;
+}
+
+
+.button[b-3ljdeph0so] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-3ljdeph0so] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-3ljdeph0so] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-3ljdeph0so] {
+    font-style: italic;
+    color: bisque;
+}
+
+.bg-image[b-3ljdeph0so] {
+    filter: blur(8px);
+}
+
+input[b-3ljdeph0so] {
+    background-color: black;
+    color: bisque;
+}
+
+    input:disabled[b-3ljdeph0so] {
+        background-color: black;
+        color: bisque;
+    }
+
+.col-form-label[b-3ljdeph0so] {
+    color: bisque;
+}
+
+input:hover[b-3ljdeph0so] {
+    background-color: transparent;
+}
+
+.button2:hover[b-3ljdeph0so] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-3ljdeph0so] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.table[b-3ljdeph0so] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-3ljdeph0so] {
+    border-bottom: 1px solid black;
+}

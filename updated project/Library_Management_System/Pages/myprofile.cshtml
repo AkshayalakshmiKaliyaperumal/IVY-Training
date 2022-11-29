@@ -1,0 +1,40 @@
+﻿@page
+@model Library_Management_System.Pages.myprofileModel
+@{
+    ViewData["Title"] = "My Profile";
+}
+<body class="fullpage">
+    <div class="text-center">
+        <br />
+        <br />
+        <br />
+        <br />
+        <div class="info">
+            
+        <h2>My Profile</h2>
+        <br />
+    </div>
+    <div class="imglogo">
+        <img src="https://i.pinimg.com/originals/0a/cd/50/0acd5002683fbcf2b720004f201ee530.jpg" alt="Logo" height="50" width="100" class="img" />
+        <br />
+    </div>
+        <div class="text-center">
+    <div class="text-center">
+          @foreach (var x in Model.list)
+                {
+                    <h5>Member Id : @x.id_no</h5>
+                    <h5>Name : @x.name</h5>
+                    <h5>Phone Number : @x.phone_number</h5>
+                    <h5>Age : @x.age</h5>
+                    <h5>Email Id : @x.email_id</h5>
+                    <h5>Password : @x.password</h5>
+
+                }
+    </div>
+    <div class="text-center">
+        <br />
+                    <a href="/MainPage?emailid=@Model.logindetails.email_id" class="btn btn-success">Home</a>
+        <div />
+            </div>
+        </div>
+</body>

@@ -1,0 +1,29 @@
+body[b-0j2esnvyhj] {
+}
+.imglogo[b-0j2esnvyhj] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+.table[b-0j2esnvyhj] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-0j2esnvyhj] {
+    border-bottom: 1px solid black;
+}
+
+h2[b-0j2esnvyhj] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-0j2esnvyhj] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}

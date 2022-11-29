@@ -1,0 +1,72 @@
+body[b-ma1snsll8i] {
+}
+.container[b-ma1snsll8i] {
+    text-align: center;
+    max-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    background-position: center;
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/25/3b/7a/253b7a1f0ba555bac67b36d9c51d2cf8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    backdrop-filter: blur(8px);
+}
+
+.imglogo[b-ma1snsll8i] {
+    text-align: right;
+    padding: 20px;
+}
+
+.Register[b-ma1snsll8i] {
+    text-align: right;
+    padding: 20px;
+}
+
+.button[b-ma1snsll8i] {
+    background-color: green;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid green;
+}
+
+    .button:hover[b-ma1snsll8i] {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+h2[b-ma1snsll8i] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+
+h5[b-ma1snsll8i] {
+    font-style: italic;
+    color: bisque;
+}
+
+.bg-image[b-ma1snsll8i] {
+    filter: blur(8px);
+}
+
+input[b-ma1snsll8i] {
+    background-color: black;
+    color:bisque;
+}
+
+
+    input:hover[b-ma1snsll8i] {
+        background-color: transparent;
+    }
+
+.button2:hover[b-ma1snsll8i] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-ma1snsll8i] {
+    background-color: red;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}

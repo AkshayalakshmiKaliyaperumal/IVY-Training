@@ -1,0 +1,165 @@
+body[b-vipietlugv] {
+    background-color:bisque;
+}
+
+h2[b-vipietlugv] {
+    font-family: 'Lucida Handwriting';
+    font-style: italic;
+    color: bisque;
+}
+.container[b-vipietlugv]{
+    text-align:right;
+}
+.Instuction[b-vipietlugv]{
+    color:bisque;
+}
+h5[b-vipietlugv]{
+    color:bisque;
+}
+
+.imglogo[b-vipietlugv] {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 20px;
+}
+
+body[b-vipietlugv] {
+}
+
+*[b-vipietlugv] {
+    box-sizing: border-box;
+}
+
+.fullpage[b-vipietlugv] {
+    color: bisque;
+}
+
+body[b-vipietlugv] {
+    margin: 0;
+    font-family: 'Lucida Handwriting'
+}
+
+.button2:hover[b-vipietlugv] {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button2[b-vipietlugv] {
+    background-color: transparent;
+    color: bisque;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 12px solid red;
+}
+
+.topnav[b-vipietlugv] {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+    .topnav a[b-vipietlugv] {
+        float: left;
+        display: block;
+        color: bisque;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover[b-vipietlugv] {
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container[b-vipietlugv] {
+        float: right;
+    }
+
+    .topnav input[type=text][b-vipietlugv] {
+        padding: 6px;
+        margin-top: 8px;
+        font-size: 17px;
+        border: none;
+        background-color: transparent;
+        color: bisque;
+    }
+
+        .topnav input[type=text]:hover[b-vipietlugv] {
+            padding: 6px;
+            margin-top: 8px;
+            font-size: 17px;
+            border: none;
+            background-color: bisque;
+            color: black;
+        }
+
+    .topnav .search-container button[b-vipietlugv] {
+        float: right;
+        padding: 6px 10px;
+        margin-top: 8px;
+        margin-right: 16px;
+        background-color: transparent;
+        font-size: 17px;
+        border: none;
+        cursor: pointer;
+        color: bisque;
+    }
+
+        .topnav .search-container button:hover[b-vipietlugv] {
+            background-color: bisque;
+            color: black;
+        }
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container[b-vipietlugv] {
+        float: none;
+        background-color: bisque;
+    }
+
+        .topnav a[b-vipietlugv], .topnav input[type=text][b-vipietlugv], .topnav .search-container button[b-vipietlugv] {
+            float: none;
+            display: block;
+            text-align: left;
+            width: 100%;
+            margin: 0;
+            padding: 14px;
+            background-color: bisque;
+        }
+
+    .topnav input[type=text][b-vipietlugv] {
+        border: 1px solid bisque;
+        background-color: bisque;
+    }
+}
+
+.imglogo[b-vipietlugv] {
+    text-align: right;
+    padding: 20px;
+}
+
+.table[b-vipietlugv] {
+    background-color: bisque;
+    color: black;
+}
+
+tr[b-vipietlugv] {
+    border-bottom: 1px solid black;
+}
+
+.bookslist[b-vipietlugv] {
+    float: left;
+    display: block;
+    color: bisque;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: transparent;
+    color: bisque;
+}
+
+    .bookslist:hover[b-vipietlugv] {
+        background-color: bisque;
+        color: black;
+    }

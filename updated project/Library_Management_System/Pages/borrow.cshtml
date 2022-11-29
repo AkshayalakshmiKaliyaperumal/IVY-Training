@@ -1,0 +1,67 @@
+﻿@page
+@model Library_Management_System.Pages.borrowModel
+@using static Library_Management_System.Pages.IndexModel;
+@using static Library_Management_System.Pages.RegisterModel;
+@{
+    ViewData["Title"] = "Borrow Books";
+}
+@if (Model.success_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+                <div class="alert alert-success alert-dismissible">
+                    @Model.success_msg
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+<body class="fullpage">
+<form method="post">
+    <div class="container" text-align="center">
+        <br />
+        <h2>Your Cart</h2>
+        <br />
+            <label for="id"><h5><b>Book Id :  </b></h5></label>
+            <input type="number" value="@Model.borrow.book_id" name="id" disabled>
+            <br />
+            <br />
+            <label for="book_name"><h5><b>Book Name :  </b></h5></label>
+            <input type="text" value="@Model.borrow.book_name" name="book_name">
+            <br />
+            <br />
+            <label for="rentprice"><h5><b>Rent Price :  </b></h5></label>
+            <input type="number" value="@Model.borrow.rent" name="rentprice">
+            <br />
+            <br />
+            <label for="name"><h5><b>Name :  </b></h5></label>
+            <input type="text" value="@Model.borrow.name" name="name">
+            <br />
+            <br />
+            <label for="emailid"><h5><b>Email Id :  </b></h5></label>
+            <input type="email" value="@Model.borrow.email_id" name="emailid">
+            <br />
+            <br />
+            <div>
+                <button type="submit" class="btn btn-success">Check Out</button>
+                <a href="/MainPage?emailid=@Model.borrow.email_id" type="reset" class="btn btn-danger">Cancel</a>
+            
+            </div>
+        </div>
+    </form>
+</body>
+@if (Model.error_msg.Length > 0)
+{
+    <div>
+        <div class="error">
+            <div class="text-center">
+                <div class="alert alert-danger alert-dismissible">
+                    @Model.error_msg
+                    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
